@@ -1,12 +1,12 @@
 var swiper = new Swiper(".slide-content", {
-    slidesPerView: 3, // Corrected typo here
+    slidesPerView: 3, 
     spaceBetween: 25,
     loop: true,
-    centeredSlides: true, // Changed from centerSlide to centeredSlides
-    fadeEffect: { // Changed from fade to fadeEffect
+    centeredSlides: true, 
+    fadeEffect: { 
         crossFade: true
     },
-    grabCursor: true, // Corrected typo here
+    grabCursor: true, 
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
