@@ -4,7 +4,9 @@ This is a simple project demonstrating responsive cards using HTML, CSS, and Jav
 
 ## Demo
 
-![Responsive Cards Demo](demo.gif)
+
+https://github.com/prachinayakal/Responsive-Card-Slider/assets/121372605/20ac3a9c-5b39-4e32-a542-25ccf7c37785
+
 
 ## Features
 
